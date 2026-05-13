@@ -1,4 +1,4 @@
-# Business 360 Power BI Dashboard
+# Business Insights 360°
 
 ## Project Overview
 
