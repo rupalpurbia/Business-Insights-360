@@ -106,13 +106,6 @@ This structure helped achieve:
 - Flexible analysis across customer, product, market and time dimensions
 - Scalable structure for multi-page Power BI reporting
 
-## Data Model Screenshot
-
-A screenshot of the Power BI data model can be added to this folder for reference.
-
-Suggested file name:
-
-`data-model.png`
 
 ## Note
 
