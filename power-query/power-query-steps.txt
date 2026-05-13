@@ -1,0 +1,15 @@
+Power Query Cleaning Steps
+
+The raw datasets were cleaned and transformed in Power Query before building the Power BI data model. Key cleaning steps included:
+
+1. Removed duplicate records to avoid repeated values affecting KPI calculations.
+2. Corrected data types for date, numeric, text and currency fields to ensure accurate analysis.
+3. Standardised date columns to support time-based reporting across months, quarters and financial years.
+4. Removed blank and invalid rows to improve data quality and prevent modelling errors.
+5. Created calculated columns where required to support business logic and reporting needs.
+6. Merged supporting lookup tables to enrich the main dataset with additional business context.
+7. Created clean dimension and fact tables to support a structured star schema model.
+8. Prepared the cleaned data for Power BI modelling, relationships, DAX measures and dashboard visuals.
+
+
+These cleaning steps helped create a reliable, analysis-ready dataset for building Finance, Sales, Marketing, Supply Chain and Executive dashboard views.
