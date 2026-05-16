@@ -51,4 +51,4 @@ The dashboard provides a consolidated view of business performance and supports 
 
 ## Dashboard Preview
 
-Screenshots will be added in the project folders.
+Dashboard screenshots are available in the dashboard-screenshots folder, covering the Home, Finance, Sales, Marketing, Supply Chain and Executive views.
